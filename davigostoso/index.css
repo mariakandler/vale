@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: hsl(0, 100%, 5%);
+    color: hsl(0, 100%, 93%);
+}
+
+#inputs {
+    margin-top: 4rem;
+}
+
+#heading {
+    margin-top: 2.8rem;
+}
+
+#prosseguir {
+    background-color: hsl(0, 36%, 64%);
+}
+
+div {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+#imagem {
+    width: 43rem;
+    height: 30rem;
+    text-align: center;
+}
